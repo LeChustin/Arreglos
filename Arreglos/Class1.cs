@@ -12,7 +12,8 @@ namespace Arreglos
         static void Main(string[] args) {
 
             Console.WriteLine("Hola");
-        /* la chica de humo *-*/
+        // la chica de humo 
+            //gil gil gil ya dañaste
         }
 
     }
