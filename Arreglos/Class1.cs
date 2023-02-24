@@ -13,6 +13,7 @@ namespace Arreglos
 
             Console.WriteLine("Hola");
         /* la chica de humo *-*/
+        /* no >:c*/    
         }
 
     }
