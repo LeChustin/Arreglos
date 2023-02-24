@@ -12,6 +12,8 @@ namespace Arreglos
         static void Main(string[] args) {
 
             Console.WriteLine("Hola");
+            
+            // :c pq no sabia
         
         }
 
